@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Line
+comment0.text=\r\n\ Line\ adalah\ kelas\ yang\ merepresentasikan\ objek\ garis\ di\ permainan.\r\n\ Garis\ ini\ memiliki\ arah\ dan\ rotasi\ yang\ dapat\ diubah.\r\n
+comment1.params=
+comment1.target=void\ turnLeft()
+comment1.text=\r\n\ Metode\ untuk\ mengubah\ arah\ garis\ menjadi\ kiri.\r\n
+comment2.params=direction
+comment2.target=void\ setDirection(int)
+comment2.text=\r\n\ Metode\ untuk\ mengatur\ arah\ dan\ rotasi\ garis.\r\n\ \r\n\ @param\ direction\ Arah\ baru\ garis\ (SOUTH,\ EAST,\ NORTH,\ WEST).\r\n
+numComments=3

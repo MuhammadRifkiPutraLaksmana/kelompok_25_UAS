@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Win
+comment0.text=\r\n\ Win\ adalah\ kelas\ yang\ merepresentasikan\ objek\ kemenangan\ dalam\ permainan.\r\n\ Objek\ ini\ muncul\ ketika\ pemain\ mencapai\ kondisi\ menang.\r\n\ Saat\ ini,\ kelas\ ini\ tidak\ memiliki\ perilaku\ khusus\ dalam\ implementasi\ yang\ diberikan.\r\n\ \r\n
+comment1.params=
+comment1.target=void\ act()
+numComments=2

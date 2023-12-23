@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Food
+comment0.text=\r\n\ Food\ adalah\ kelas\ yang\ merepresentasikan\ objek\ makanan\ dalam\ permainan.\r\n\ Saat\ ini,\ kelas\ ini\ tidak\ memiliki\ perilaku\ atau\ tindakan\ khusus\ dalam\ implementasi\ yang\ diberikan.\r\n\ \r\n
+comment1.params=
+comment1.target=void\ act()
+numComments=2

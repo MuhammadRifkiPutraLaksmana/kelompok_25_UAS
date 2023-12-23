@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Panah
+comment0.text=\r\n\ Panah\ adalah\ kelas\ yang\ merepresentasikan\ objek\ panah\ yang\ bergerak\ di\ dunia.\r\n\ Implementasi\ Interface\ LoseHandler\ untuk\ menangani\ peristiwa\ "lose".\r\n
+comment1.params=
+comment1.target=void\ handleLose()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Metode\ act()\ akan\ dipanggil\ secara\ otomatis\ selama\ permainan\ berlangsung.\r\n
+comment3.params=
+comment3.target=void\ handleLose()
+comment3.text=\r\n\ Metode\ handleLose()\ digunakan\ untuk\ menangani\ kondisi\ kekalahan\ pemain.\r\n\ Jika\ panah\ bertabrakan\ dengan\ objek\ Star,\ maka\ permainan\ dihentikan\ dan\ suara\ kekalahan\ dimainkan.\r\n\ @Interface\r\n
+comment4.params=
+comment4.target=boolean\ edge()
+comment4.text=\r\n\ Metode\ edge()\ digunakan\ untuk\ memeriksa\ apakah\ panah\ mencapai\ batas\ layar.\r\n\ Jika\ iya,\ metode\ ini\ mengembalikan\ nilai\ true;\ jika\ tidak,\ mengembalikan\ nilai\ false.\r\n
+comment5.params=
+comment5.target=void\ batas()
+comment5.text=\r\n\ Metode\ batas()\ digunakan\ untuk\ menangani\ pergerakan\ panah\ dan\ pembalikan\ saat\ mencapai\ batas\ layar.\r\n
+comment6.params=clss
+comment6.target=boolean\ line(java.lang.Class)
+comment6.text=\r\n\ Metode\ line()\ digunakan\ untuk\ mendeteksi\ apakah\ panah\ bertabrakan\ dengan\ objek\ dari\ kelas\ tertentu\ (misalnya,\ Line).\r\n\ Mengembalikan\ nilai\ true\ jika\ terdapat\ tabrakan;\ sebaliknya,\ mengembalikan\ nilai\ false.\r\n
+comment7.params=
+comment7.target=void\ loses()
+comment7.text=\r\n\ Metode\ loses()\ digunakan\ untuk\ menangani\ aksi\ tambahan\ saat\ pemain\ kalah.\r\n\ Metode\ ini\ menghentikan\ permainan\ dan\ memainkan\ suara\ kekalahan.\r\n
+numComments=8

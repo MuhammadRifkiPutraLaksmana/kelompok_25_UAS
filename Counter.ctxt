@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Counter
+comment0.text=\r\n\ Counter\ adalah\ kelas\ yang\ menangani\ skor\ pemain.\r\n
+comment1.params=
+comment1.target=Counter()
+comment1.text=\r\n\ Konstruktor\ untuk\ objek\ kelas\ Counter.\r\n\ Inisialisasi\ skor\ awal\ dan\ menetapkan\ gambar\ dengan\ ukuran\ 100x30\ piksel.\r\n
+comment2.params=
+comment2.target=void\ addScore()
+comment2.text=\r\n\ Metode\ untuk\ menambah\ skor\ pemain\ sebanyak\ 10\ poin.\r\n
+comment3.params=
+comment3.target=void\ update()
+comment3.text=\r\n\ Metode\ untuk\ memperbarui\ tampilan\ skor\ pada\ gambar.\r\n
+numComments=4

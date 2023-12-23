@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Lose
+comment0.text=\r\n\ Lose\ adalah\ kelas\ yang\ merepresentasikan\ objek\ "kalah"\ dalam\ permainan.\r\n\ Jika\ pemain\ kalah,\ objek\ Lose\ akan\ ditambahkan\ ke\ dunia\ permainan.\r\n\ \r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Metode\ act\ akan\ dipanggil\ secara\ otomatis\ ketika\ skenario\ permainan\ berjalan.\r\n\ Dalam\ konteks\ kelas\ Lose,\ metode\ ini\ tidak\ memiliki\ implementasi\ aktif.\r\n
+numComments=2
